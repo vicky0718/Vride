@@ -14,6 +14,7 @@ import RideCard from "@/components/RideCard";
 import { icons, images } from "@/constants";
 import GoogleTextInput from "@/components/GoogleTextInput";
 import Map from "@/components/Map";
+import React from "react";
 
 const recentRides = [
   {
